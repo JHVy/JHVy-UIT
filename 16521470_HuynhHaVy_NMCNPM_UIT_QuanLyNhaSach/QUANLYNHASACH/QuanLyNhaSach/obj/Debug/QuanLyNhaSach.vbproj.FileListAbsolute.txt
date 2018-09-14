@@ -1,0 +1,102 @@
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.xml
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Resources.resources
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.vbproj.GenerateResource.Cache
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.xml
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Form1.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.vbprojResolveAssemblyReference.cache
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\BUS.dll
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\DAL.dll
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\DTO.dll
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\BUS.pdb
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\BUS.xml
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\DAL.pdb
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\DAL.xml
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\DTO.pdb
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\bin\Debug\DTO.xml
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.QUANLYSACH.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.QUANLYKHACHHANG.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.PHIEUNHAPSACH.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.THAYDOIQUYDINH.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.HOADONBANSACH.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.PHIEUTHUTIEN.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.BAOCAOTON.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.BAOCAOCAONGNO.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TIMKIEMSACH.resources
+C:\Users\hung\Documents\Visual Studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DANGNHAP.resources
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TRACCUUKHACHHANG.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\BUS.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\DAL.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\DTO.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\BUS.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\BUS.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\DAL.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\DAL.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\DTO.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\bin\Debug\DTO.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.vbprojResolveAssemblyReference.cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.BAOCAOCAONGNO.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.BAOCAOTON.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DANGNHAP.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Form1.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.HOADONBANSACH.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Resources.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.PHIEUNHAPSACH.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.PHIEUTHUTIEN.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.QUANLYKHACHHANG.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.QUANLYSACH.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.THAYDOIQUYDINH.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TIMKIEMSACH.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.vbproj.GenerateResource.Cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.vbproj.CoreCompileInputs.cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.QUANLYNHANVIEN.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TRACUUKHACHHANG.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TRACUUNHANVIEN.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\BUS.dll
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\DAL.dll
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\DTO.dll
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\BUS.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\BUS.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\DAL.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\DAL.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\DTO.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\DTO.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.vbprojResolveAssemblyReference.cache
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.BAOCAOCAONGNO.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.BAOCAOTON.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.DANGNHAP.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Form1.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.HOADONBANSACH.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Resources.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.PHIEUNHAPSACH.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.PHIEUTHUTIEN.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.QUANLYKHACHHANG.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.QUANLYNHANVIEN.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.QUANLYSACH.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.THAYDOIQUYDINH.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TIMKIEMSACH.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TRACUUKHACHHANG.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TRACUUNHANVIEN.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.vbproj.GenerateResource.Cache
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\Đồ Án Cuối Kỳ\QUANLYNHASACH\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\Đồ Án Cuối Kỳ\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\Đồ Án Cuối Kỳ\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\Đồ Án Cuối Kỳ\QUANLYNHASACH\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
