@@ -1,0 +1,46 @@
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\bin\Debug\BUS.dll
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\bin\Debug\BUS.pdb
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\bin\Debug\BUS.xml
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\bin\Debug\DTO.dll
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\bin\Debug\DTO.pdb
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\bin\Debug\DTO.xml
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\obj\Debug\BUS.Resources.resources
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\obj\Debug\BUS.dll
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\obj\Debug\BUS.xml
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\BUS\obj\Debug\BUS.pdb
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\BUS\bin\Debug\DAL.dll
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\BUS\bin\Debug\DAL.pdb
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\BUS\bin\Debug\DAL.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\BUS.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\BUS.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\BUS.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\DAL.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\DTO.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\DAL.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\DAL.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\DTO.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\bin\Debug\DTO.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\obj\Debug\BUS.Resources.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\obj\Debug\BUS.vbproj.CoreCompileInputs.cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\obj\Debug\BUS.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\obj\Debug\BUS.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\BUS\obj\Debug\BUS.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\BUS.dll
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\BUS.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\BUS.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\DAL.dll
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\DTO.dll
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\DAL.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\DAL.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\DTO.pdb
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\bin\Debug\DTO.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\obj\Debug\BUS.Resources.resources
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\obj\Debug\BUS.dll
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\obj\Debug\BUS.xml
+C:\Users\Huynh Ha Vy\Desktop\Môn Học\NM CNPM\QUANLYNHASACH\BUS\obj\Debug\BUS.pdb
